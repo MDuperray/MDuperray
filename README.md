@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MDuperray
 - 👀 I’m interested inée par le Développement Web
-- 🌱 I’m currently learning  les languages HTML et CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  les languages HTML5 et CSS3
+- 💞️ I’m looking to collaborate on  le langages HTML5 ainsi que sur le CSS3
 - 📫 How to reach me 
 
 <!---
